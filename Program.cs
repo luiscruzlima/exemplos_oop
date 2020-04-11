@@ -23,7 +23,7 @@ namespace Fatorial
             return fatorial;
         }
     }
-    class Fatorial
+    class Program
     {
         static void Main(string[] args)
         {
